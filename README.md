@@ -1,2 +1,2 @@
 # TrackMe
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/coding_bro04)
+![](https://leetcard.jacoblin.cool/coding_bro04?theme=dark)
